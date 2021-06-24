@@ -21,7 +21,7 @@ def toRoman(num):
 
     return output
 
-print (toRoman(4678))
+print (toRoman(532))
 
 
 #------------------------------------------------------------------------
