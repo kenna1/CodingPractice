@@ -2,7 +2,8 @@ import urllib.request
 import json
 
 api_endpoint = "http://api.openweathermap.org/data/2.5/weather"
-city = "London"
+# Allow the user to input a city
+city = input()
 api_key = "f88562facbaf88695f7fd6d25eaf9203"
 
 #form the request url
