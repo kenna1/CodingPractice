@@ -10,7 +10,7 @@ not_string('not bad') → 'not bad'
 
 def not_string(str):
 #check if the string begins with not
-    if str[0:3] == "not":
+    if str[0:3] == "not ":
 #if yes,
     #return string
         return str
@@ -20,4 +20,4 @@ def not_string(str):
         return "not" + " " + str
     # return new word
 
-print (not_string("not me"))
+print (not_string("not"))
