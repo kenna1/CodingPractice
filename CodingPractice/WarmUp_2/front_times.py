@@ -7,9 +7,20 @@ front_times('Chocolate', 3) → 'ChoChoCho'
 front_times('Abc', 3) → 'AbcAbcAbc'
 '''
 
-#find the first 3 characters and store in variable c
-# loop through array: while iterator is less than n
-    #Add 3 characters to new variable
-    #increment iterator
+def front_times(str, n):
+    # find the first 3 characters and store in variable c
+        str3 = str[0:3]
+    #initialising newStr for new String
+        newStr = ""
+    # loop through array: while iterator is less than n
+        i = 0
+        while(i < n):
+            # Add 3 characters to new variable
+            newStr += str3
+            # increment iterator
+            i+=1
+# return new variable
+        return newStr
 
-#return new variable
+
+print(front_times("C", 3))
