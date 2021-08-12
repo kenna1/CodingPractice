@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Added files to new Directory">
-      <change afterPath="$PROJECT_DIR$/WarmUp_2/string_times.py" afterDir="false" />
+    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="code to print a word n times">
+      <change afterPath="$PROJECT_DIR$/WarmUp_2/front_times.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628728208924</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="code to print a word n times">
+      <created>1628732272043</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1628732272043</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,6 +386,7 @@
     <MESSAGE value="updated the code" />
     <MESSAGE value="Created a new Directory" />
     <MESSAGE value="Added files to new Directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files to new Directory" />
+    <MESSAGE value="code to print a word n times" />
+    <option name="LAST_COMMIT_MESSAGE" value="code to print a word n times" />
   </component>
 </project>
