@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="String_bit problem solved">
-      <change afterPath="$PROJECT_DIR$/WarmUp_2/string_splosion.py" afterDir="false" />
+    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="string explosion solved">
+      <change afterPath="$PROJECT_DIR$/WarmUp_2/array_count9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +45,20 @@
       <recent name="C:\Users\ikenn\PycharmProjects\CodingPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.string_splosion">
-    <configuration name="advanced_not_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.array_count9">
+    <configuration name="array_count9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WarmUp_2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_not_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/array_count9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,19 +174,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.advanced_not_string" />
       <item itemvalue="Python.string_times" />
       <item itemvalue="Python.front_times" />
       <item itemvalue="Python.string_bits" />
       <item itemvalue="Python.string_splosion" />
+      <item itemvalue="Python.array_count9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.array_count9" />
         <item itemvalue="Python.string_splosion" />
         <item itemvalue="Python.string_bits" />
         <item itemvalue="Python.front_times" />
         <item itemvalue="Python.string_times" />
-        <item itemvalue="Python.advanced_not_string" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630453540907</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="string explosion solved">
+      <created>1630626863657</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1630626863657</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,6 +418,7 @@
     <MESSAGE value="Pseudo for front times problem" />
     <MESSAGE value="Pseudo and code for front times problem" />
     <MESSAGE value="String_bit problem solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="String_bit problem solved" />
+    <MESSAGE value="string explosion solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="string explosion solved" />
   </component>
 </project>
