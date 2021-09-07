@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Finding the number of 9's in array solved!">
+    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Finding 123 in an array">
       <change afterPath="$PROJECT_DIR$/WarmUp_2/DegreeCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarmUp_2/array123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarmUp_2/array_front9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WarmUp_2/array123.py" beforeDir="false" afterPath="$PROJECT_DIR$/WarmUp_2/array123.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <recent name="C:\Users\ikenn\PycharmProjects\CodingPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.array_front9">
+  <component name="RunManager" selected="Python.array123">
     <configuration name="DegreeCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,8 +183,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.array_front9" />
         <item itemvalue="Python.array123" />
+        <item itemvalue="Python.array_front9" />
         <item itemvalue="Python.DegreeCalculator" />
         <item itemvalue="Python.array_count9" />
         <item itemvalue="Python.string_splosion" />
@@ -390,7 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630707287779</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Finding 9 in the first 4 numbers indices solved">
+      <created>1631040742080</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1631040742080</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Finding 123 in an array">
+      <created>1631041010153</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1631041010153</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +442,9 @@
     <MESSAGE value="String_bit problem solved" />
     <MESSAGE value="string explosion solved" />
     <MESSAGE value="Finding the number of 9's in array solved!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding the number of 9's in array solved!" />
+    <MESSAGE value="Finding 9 in the first 4 numbers indices solved" />
+    <MESSAGE value="Finding 123 in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finding 123 in an array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -453,6 +468,16 @@
           <url>file://$PROJECT_DIR$/WarmUp_2/DegreeCalculator.py</url>
           <line>5</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WarmUp_2/array123.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WarmUp_2/array123.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

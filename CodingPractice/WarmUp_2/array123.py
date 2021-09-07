@@ -10,35 +10,14 @@ array123([1, 1, 2, 1, 2, 3]) → True
 '''
 
 def array123(nums):
-    one, two, three = 0, 0, 0
-# Go through the array
-    #Loop through array while less than array length
-    for i  in range(0, len(nums)):
-        #check if 1, 2, 3 exist
-        # if array[n] == 1, record the index "one"
-        if nums[i] == 1:
-            one = i
+  # Note: iterate with length-2, so can use i+1 and i+2 in the loop
+    i = 0
+    while i < len(nums):
+   #for i in range(len(nums)):
+        if nums[i]==1 and nums[i+1]==2 and nums[i+2]==3:
+            return True
+        i+=1
 
-        # if array[n] == 2, record the index "two"
-        if nums[i] == 2:
-            two = i
+    return False
 
-        # if array[n] == 3, record the index "three"
-        if nums[i] == 3:
-            three = i
-
-    print(one)
-    print(two)
-    print(three)
-
-
-    # if yes, return true, else false
-        #if three - two == 1 and two - one == 1
-    if three - two == 1 and two - one == 1:
-            #return true
-        return True
-        #else return false
-    else:
-        return False
-
-print(array123([1, 1, 2, 3, 1]))
+print(array123([1, 1, 2, 1, 2, 3, 3, 4, 6]))
