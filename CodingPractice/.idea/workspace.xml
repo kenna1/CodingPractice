@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Finding 123 in an array">
+      <change afterPath="$PROJECT_DIR$/API/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/.idea/API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/WarmUp_2/DegreeCalculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WarmUp_2/array123.py" beforeDir="false" afterPath="$PROJECT_DIR$/WarmUp_2/array123.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +41,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
@@ -403,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631041010153</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Finding 123 in an array">
+      <created>1631042755887</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1631042755887</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
