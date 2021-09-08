@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Finding 123 in an array">
-      <change afterPath="$PROJECT_DIR$/API/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/.idea/API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WarmUp_2/DegreeCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WarmUp_2/string_match.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +38,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
@@ -53,7 +46,7 @@
       <recent name="C:\Users\ikenn\PycharmProjects\CodingPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.array123">
+  <component name="RunManager" selected="Python.string_match">
     <configuration name="DegreeCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_splosion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -171,7 +164,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/string_splosion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/string_match.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,19 +175,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.string_splosion" />
       <item itemvalue="Python.array_count9" />
       <item itemvalue="Python.array123" />
       <item itemvalue="Python.DegreeCalculator" />
       <item itemvalue="Python.array_front9" />
+      <item itemvalue="Python.string_match" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.string_match" />
         <item itemvalue="Python.array123" />
         <item itemvalue="Python.array_front9" />
         <item itemvalue="Python.DegreeCalculator" />
         <item itemvalue="Python.array_count9" />
-        <item itemvalue="Python.string_splosion" />
       </list>
     </recent_temporary>
   </component>
