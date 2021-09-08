@@ -11,7 +11,7 @@ data = data.decode()
 
 print(type(data))
 
-file_name = 'C:/Users/ikenn/PycharmProjects/pythonProject/petlicenses.csv'
+file_name = 'C:/Users/PycharmProjects/pythonProject/petlicenses.csv'
 f = open(file_name, 'w')
 f.write(data)
 f.close()
