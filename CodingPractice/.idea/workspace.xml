@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Get the first half of a string - solved">
-      <change afterPath="$PROJECT_DIR$/StringQs/left2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringQs/make_abba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringQs/non_start.py" afterDir="false" />
+    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="string concatenation without first letter solved">
+      <change afterPath="$PROJECT_DIR$/StringQs/without_end.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +46,7 @@
       <recent name="C:\Users\ikenn\PycharmProjects\CodingPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.left2">
+  <component name="RunManager" selected="Python.without_end">
     <configuration name="first_half" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,27 +60,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/first_half.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="first_two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringQs" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/first_two.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,21 +152,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="without_end" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringQs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/without_end.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.first_two" />
       <item itemvalue="Python.first_half" />
       <item itemvalue="Python.make_abba" />
       <item itemvalue="Python.non_start" />
       <item itemvalue="Python.left2" />
+      <item itemvalue="Python.without_end" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.without_end" />
         <item itemvalue="Python.left2" />
         <item itemvalue="Python.non_start" />
         <item itemvalue="Python.make_abba" />
         <item itemvalue="Python.first_half" />
-        <item itemvalue="Python.first_two" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +459,28 @@
       <option name="project" value="LOCAL" />
       <updated>1631296883674</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="rotated left 2 solved">
+      <created>1631463429483</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1631463429483</updated>
+    </task>
+    <task id="LOCAL-00039" summary="abba solved">
+      <created>1631463454813</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1631463454813</updated>
+    </task>
+    <task id="LOCAL-00040" summary="string concatenation without first letter solved">
+      <created>1631463501225</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1631463501225</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,9 +496,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Working with the Weather API" />
-    <MESSAGE value="first and last chars exchanged." />
-    <MESSAGE value="String with 3 copies of the first three letters" />
     <MESSAGE value="One value must be positive and one must be negative" />
     <MESSAGE value="Check if the values make 10 when added" />
     <MESSAGE value="Add not behind the word. &quot;not bad&quot;" />
@@ -502,7 +518,10 @@
     <MESSAGE value="Output the last two characters 3 times solved" />
     <MESSAGE value="Output first two characters of string solved" />
     <MESSAGE value="Get the first half of a string - solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Get the first half of a string - solved" />
+    <MESSAGE value="rotated left 2 solved" />
+    <MESSAGE value="abba solved" />
+    <MESSAGE value="string concatenation without first letter solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="string concatenation without first letter solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
