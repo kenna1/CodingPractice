@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Matching substring of length 2 solved">
-      <change afterPath="$PROJECT_DIR$/WarmUp_2/last2.py" afterDir="false" />
+    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Get the first half of a string - solved">
+      <change afterPath="$PROJECT_DIR$/StringQs/left2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringQs/make_abba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringQs/non_start.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,20 +48,20 @@
       <recent name="C:\Users\ikenn\PycharmProjects\CodingPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.last2">
-    <configuration name="DegreeCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.left2">
+    <configuration name="first_half" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WarmUp_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringQs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/DegreeCalculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/first_half.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,19 +70,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="first_two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WarmUp_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringQs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/array123.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/first_two.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,40 +91,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array_front9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="left2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WarmUp_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringQs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/array_front9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="last2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WarmUp_2" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/last2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/left2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,19 +133,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="make_abba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WarmUp_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringQs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WarmUp_2/string_match.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/make_abba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="non_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ikenn\PycharmProjects\CodingPractice\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringQs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/non_start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,19 +177,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.array123" />
-      <item itemvalue="Python.DegreeCalculator" />
-      <item itemvalue="Python.array_front9" />
-      <item itemvalue="Python.string_match" />
-      <item itemvalue="Python.last2" />
+      <item itemvalue="Python.first_two" />
+      <item itemvalue="Python.first_half" />
+      <item itemvalue="Python.make_abba" />
+      <item itemvalue="Python.non_start" />
+      <item itemvalue="Python.left2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.last2" />
-        <item itemvalue="Python.string_match" />
-        <item itemvalue="Python.array123" />
-        <item itemvalue="Python.array_front9" />
-        <item itemvalue="Python.DegreeCalculator" />
+        <item itemvalue="Python.left2" />
+        <item itemvalue="Python.non_start" />
+        <item itemvalue="Python.make_abba" />
+        <item itemvalue="Python.first_half" />
+        <item itemvalue="Python.first_two" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +419,49 @@
       <option name="project" value="LOCAL" />
       <updated>1631127751428</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="last two substring match with string solved">
+      <created>1631235542795</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1631235542795</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Output greeting + name solved">
+      <created>1631294575591</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1631294575591</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Outstring with word in the middle solved">
+      <created>1631294624095</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1631294624095</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Output the last two characters 3 times solved">
+      <created>1631295461055</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1631295461055</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Output first two characters of string solved">
+      <created>1631295554491</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1631295554491</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Get the first half of a string - solved">
+      <created>1631296883674</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1631296883674</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,12 +477,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Difference between two numbers" />
-    <MESSAGE value="Number within 100 or 200" />
-    <MESSAGE value="removing a letter at position n from a word" />
-    <MESSAGE value="Talking parrot at specific times" />
-    <MESSAGE value="sum numbers and similar numbers, then double result" />
-    <MESSAGE value="Which monkey is smiling" />
     <MESSAGE value="Working with the Weather API" />
     <MESSAGE value="first and last chars exchanged." />
     <MESSAGE value="String with 3 copies of the first three letters" />
@@ -458,7 +496,13 @@
     <MESSAGE value="Finding 9 in the first 4 numbers indices solved" />
     <MESSAGE value="Finding 123 in an array" />
     <MESSAGE value="Matching substring of length 2 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matching substring of length 2 solved" />
+    <MESSAGE value="last two substring match with string solved" />
+    <MESSAGE value="Output greeting + name solved" />
+    <MESSAGE value="Outstring with word in the middle solved" />
+    <MESSAGE value="Output the last two characters 3 times solved" />
+    <MESSAGE value="Output first two characters of string solved" />
+    <MESSAGE value="Get the first half of a string - solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get the first half of a string - solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
