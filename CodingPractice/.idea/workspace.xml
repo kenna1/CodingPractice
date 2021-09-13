@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="string concatenation without first letter solved">
-      <change afterPath="$PROJECT_DIR$/StringQs/without_end.py" afterDir="false" />
+    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="second and second last letters removed solved">
+      <change afterPath="$PROJECT_DIR$/StringQs/combo_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringQs/make_tags.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +47,8 @@
       <recent name="C:\Users\ikenn\PycharmProjects\CodingPractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.without_end">
-    <configuration name="first_half" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.combo_string">
+    <configuration name="combo_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -59,7 +60,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/first_half.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/combo_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="make_abba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="make_tags" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -122,7 +123,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/make_abba.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringQs/make_tags.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,19 +176,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.first_half" />
-      <item itemvalue="Python.make_abba" />
       <item itemvalue="Python.non_start" />
       <item itemvalue="Python.left2" />
       <item itemvalue="Python.without_end" />
+      <item itemvalue="Python.make_tags" />
+      <item itemvalue="Python.combo_string" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.combo_string" />
+        <item itemvalue="Python.make_tags" />
         <item itemvalue="Python.without_end" />
         <item itemvalue="Python.left2" />
         <item itemvalue="Python.non_start" />
-        <item itemvalue="Python.make_abba" />
-        <item itemvalue="Python.first_half" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631463501225</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="second and second last letters removed solved">
+      <created>1631474159509</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1631474159509</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +504,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="One value must be positive and one must be negative" />
     <MESSAGE value="Check if the values make 10 when added" />
     <MESSAGE value="Add not behind the word. &quot;not bad&quot;" />
     <MESSAGE value="Advanced version of not string" />
@@ -521,7 +528,8 @@
     <MESSAGE value="rotated left 2 solved" />
     <MESSAGE value="abba solved" />
     <MESSAGE value="string concatenation without first letter solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="string concatenation without first letter solved" />
+    <MESSAGE value="second and second last letters removed solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="second and second last letters removed solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
