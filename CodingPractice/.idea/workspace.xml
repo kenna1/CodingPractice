@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="second and second last letters removed solved">
-      <change afterPath="$PROJECT_DIR$/StringQs/combo_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringQs/make_tags.py" afterDir="false" />
+    <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Combining strings, with shorter string in the middle solved">
+      <change afterPath="$PROJECT_DIR$/ListQs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/.idea/ListQs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/first_last6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/make_pi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListQs/same_first_last.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -488,7 +495,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631474159509</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Adding tags with strings solved">
+      <created>1631569632212</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1631569632212</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Combining strings, with shorter string in the middle solved">
+      <created>1631569703205</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1631569703205</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,8 +525,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Check if the values make 10 when added" />
-    <MESSAGE value="Add not behind the word. &quot;not bad&quot;" />
     <MESSAGE value="Advanced version of not string" />
     <MESSAGE value="updated the code" />
     <MESSAGE value="Created a new Directory" />
@@ -529,7 +548,9 @@
     <MESSAGE value="abba solved" />
     <MESSAGE value="string concatenation without first letter solved" />
     <MESSAGE value="second and second last letters removed solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="second and second last letters removed solved" />
+    <MESSAGE value="Adding tags with strings solved" />
+    <MESSAGE value="Combining strings, with shorter string in the middle solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Combining strings, with shorter string in the middle solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
