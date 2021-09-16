@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="619577c5-79e1-40af-a4df-4353ce14723a" name="Default Changelist" comment="Combining strings, with shorter string in the middle solved">
-      <change afterPath="$PROJECT_DIR$/ListQs/common_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListQs/reverse3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListQs/sum3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
