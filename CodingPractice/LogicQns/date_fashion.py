@@ -13,18 +13,12 @@ date_fashion(5, 5) → 1
 '''
 
 def date_fashion(you, date):
-   # The verdict is no by default
-    verdict = 0
+    verdict = 1
 # Check if date and you are >= 8
-    if you >= 8 or date >= 8 and you > 2 or date > 2:
-    #return yes
-        verdict = 2
-# Check if date or you > 2
-    elif you > 2 and date > 2:
-    # return maybe
-        verdict = 1
-
-
+    if you <= 2 or date <= 2:
+      verdict = 0
+    elif you >=8 or date >=8:
+# Check if date or you < 2
+      verdict = 2
     return verdict
-
-print(date_fashion(10,2))
+print(date_fashion(5,5))
