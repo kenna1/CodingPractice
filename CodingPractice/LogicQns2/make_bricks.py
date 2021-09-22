@@ -9,6 +9,7 @@ This is a little harder than it looks and can be done without any loops. See als
 make_bricks(3, 1, 8) → True
 make_bricks(3, 1, 9) → False
 make_bricks(3, 2, 10) → True
+
 '''
 
 def make_bricks(small, big, goal):
