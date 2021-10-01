@@ -13,20 +13,17 @@ def close_far(a, b, c):
     close = 0
     distant = False
 # Find which is close (differing a by 1)
+# Find which is far ( differing a and b by 2+)
+
     distanceAnB= a - b
     distanceAnC = a - c
     if abs(distanceAnB) <= 1:
-        close = b
-    elif abs(distanceAnC) <= 1:
-        close = c
-# Find which is far ( differing a and b by 2+)
-    if close == b:
         aToC = a - c
         bToC = b - c
         if abs(aToC) >= 2 and abs(bToC) >= 2:
             distant = True
 
-    elif close == c:
+    elif abs(distanceAnC) <= 1:
         aToB = a - b
         cToB = c - b
         if abs(aToB) >= 2 and abs(cToB) >= 2:
@@ -35,5 +32,5 @@ def close_far(a, b, c):
 
     return distant
 
-print(close_far(10, 10, 8))
+print(close_far(1, 2, 3))
 
