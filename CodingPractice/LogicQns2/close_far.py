@@ -10,7 +10,30 @@ close_far(4, 1, 3) → True
 '''
 
 def close_far(a, b, c):
-# minus a from b
-# minus a from c
-# check if result of a - b == 1 or result of a - c == 1 and result of a - b > 2 or a - c > 2
-# if so, return true else return false
+    close = 0
+    distant = False
+# Find which is close (differing a by 1)
+    distanceAnB= a - b
+    distanceAnC = a - c
+    if abs(distanceAnB) <= 1:
+        close = b
+    elif abs(distanceAnC) <= 1:
+        close = c
+# Find which is far ( differing a and b by 2+)
+    if close == b:
+        aToC = a - c
+        bToC = b - c
+        if abs(aToC) >= 2 and abs(bToC) >= 2:
+            distant = True
+
+    elif close == c:
+        aToB = a - b
+        cToB = c - b
+        if abs(aToB) >= 2 and abs(cToB) >= 2:
+            distant = True
+
+
+    return distant
+
+print(close_far(10, 10, 8))
+
