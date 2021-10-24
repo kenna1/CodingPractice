@@ -5,7 +5,7 @@ def result():
     wordlist = ['cat', 'dog', 'rabbit']
     letterlist = []
     #word2 = [letterlist.append(aletter) for aword in wordlist for aletter in word]
-    word2 = [word[i] for word in wordlist for i in range(len(word)) if word[i] not in ]
+    word2 = [word[i] for word in wordlist for i in range(len(word))]
 
     print(word2)
 
